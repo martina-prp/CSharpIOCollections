@@ -1,10 +1,10 @@
 <students>
-  <student studentIdentifier="1">
+  <student id="1">
     <name>ivan</name>
-    <age>0</age>
+    <age>25</age>
   </student>
-  <student studentIdentifier="2">
+  <student id="2">
     <name>dragan</name>
-    <age>0</age>
+    <age>25</age>
   </student>
 </students>

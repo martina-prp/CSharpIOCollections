@@ -4,3 +4,6 @@ C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\Collesctions
 C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\Collesctions\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
 C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\Collesctions\obj\Debug\Collesctions.exe
 C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\Collesctions\obj\Debug\Collesctions.pdb
+D:\VS Solutions\CSharpIOCollections\Collesctions\bin\Debug\Collesctions.exe.config
+D:\VS Solutions\CSharpIOCollections\Collesctions\obj\Debug\Collesctions.exe
+D:\VS Solutions\CSharpIOCollections\Collesctions\obj\Debug\Collesctions.pdb

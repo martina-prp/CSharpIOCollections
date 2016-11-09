@@ -13,7 +13,7 @@ namespace XmlDemo
             List<Student> students = new List<Student>();
             foreach(var item in names)
             {
-                students.Add(new Student(item, 20));
+                students.Add(new Student(item, 25));
             }
             return students;
         }

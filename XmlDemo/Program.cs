@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
+using System.Xml.Serialization;
 
 namespace XmlDemo
 {
@@ -38,7 +40,13 @@ namespace XmlDemo
             document.Save("../../students.xml");
 
 
+            // Second way of serialization to xml
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Student>));
 
+            using (XmlWriter writer = XmlWriter.Create("../../students2.xml"))
+            {
+                xmlSerializer.Serialize(writer, students);
+            }
         }
     }
 }
