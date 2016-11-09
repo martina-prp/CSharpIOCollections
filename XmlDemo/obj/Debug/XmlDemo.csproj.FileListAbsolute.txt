@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\XmlDemo\bin\Debug\XmlDemo.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\XmlDemo\bin\Debug\XmlDemo.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\XmlDemo\bin\Debug\XmlDemo.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\XmlDemo\obj\Debug\XmlDemo.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\XmlDemo\obj\Debug\XmlDemo.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Collesctions\XmlDemo\obj\Debug\XmlDemo.pdb

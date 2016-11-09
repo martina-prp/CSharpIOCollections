@@ -1,0 +1,10 @@
+<students>
+  <student studentIdentifier="1">
+    <name>ivan</name>
+    <age>0</age>
+  </student>
+  <student studentIdentifier="2">
+    <name>dragan</name>
+    <age>0</age>
+  </student>
+</students>
